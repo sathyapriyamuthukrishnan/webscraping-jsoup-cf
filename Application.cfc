@@ -4,7 +4,7 @@ component {
 
 	this.javaSettings = {
 		loadPaths: [
-			"./lib/"
+			"./"
 		],
 		loadColdFusionClassPath: true
 	};
